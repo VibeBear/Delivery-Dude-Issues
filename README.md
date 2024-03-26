@@ -3,7 +3,7 @@ Issue repository for Delivery Dude
 
 # Delivery Dude
 
-![Delivery Dude](https://deliverydude.vibebear.studio/img/background.png)
+![Delivery Dude](https://deliverydude.vibebear.studio/img/logo.png)
 
 Keep track of your shipments!
 
